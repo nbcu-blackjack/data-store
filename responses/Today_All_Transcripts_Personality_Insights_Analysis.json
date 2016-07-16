@@ -12,18 +12,18 @@
     "LIKELY_TO_3": "Reply on social media",
     "UNLIKELY_TO_1": "Click on an ad",
     "UNLIKELY_TO_2": "Follow on social media",
-    "UNLIKELY_TO_3": "Buy healthy foods",
+    "UNLIKELY_TO_3": "Buy healthy foods"
   },
-  "SUMMARY_TEXT": {
-    "You are unpretentious, boisterous and can be perceived as verbose."
-    "You are intermittent: you have a hard time sticking with difficult tasks for a long period of time."
-    "You are empathetic: you feel what others feel and are compassionate towards them."
-    "You are assertive: you tend to speak up and take charge of situations, and you are comfortable leading groups."
-    "Youre choices are driven by a desire for efficiency."
-    "You consider both helping others and independence to guide a large part of what you do."
-    "You think it is important to take care of the people around you."
+  "SUMMARY_TEXT": [
+    "You are unpretentious, boisterous and can be perceived as verbose.",
+    "You are intermittent: you have a hard time sticking with difficult tasks for a long period of time.",
+    "You are empathetic: you feel what others feel and are compassionate towards them.",
+    "You are assertive: you tend to speak up and take charge of situations, and you are comfortable leading groups.",
+    "Youre choices are driven by a desire for efficiency.",
+    "You consider both helping others and independence to guide a large part of what you do.",
+    "You think it is important to take care of the people around you.",
     "You like to set your own goals to decide how to best achieve them."
-  },
+  ],
   "word_count": 7076,
   "processed_lang": "en",
   "tree": {
