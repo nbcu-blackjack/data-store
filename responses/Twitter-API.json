@@ -1,0 +1,504 @@
+{
+  "statuses": [{
+    "created_at": "Fri Jul 15 20:10:45 +0000 2016",
+    "id": 754045560240431104,
+    "id_str": "754045560240431104",
+    "text": "CNN feels as outdated as a newspaper right now. Twitter has live coverage of a coup attempt in Turkey and the networks are still in France.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 87271106,
+      "id_str": "87271106",
+      "name": "Binyamin Appelbaum",
+      "screen_name": "BCAppelbaum",
+      "location": "Washington, DC",
+      "description": "A Washington correspondent for The New York Times. Pure applesauce. bappelbaum@nytimes.com",
+      "url": "http:\/\/t.co\/qq8TJJHfJi",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/qq8TJJHfJi",
+            "expanded_url": "http:\/\/nyti.ms\/l8IIoH",
+            "display_url": "nyti.ms\/l8IIoH",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 35888,
+      "friends_count": 719,
+      "listed_count": 1566,
+      "created_at": "Tue Nov 03 20:10:35 +0000 2009",
+      "favourites_count": 821,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18073,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1277664327\/BinyaminApplebaum1a_2__normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1277664327\/BinyaminApplebaum1a_2__normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2641,
+    "favorite_count": 2105,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "created_at": "Fri Jul 15 21:04:10 +0000 2016",
+    "id": 754059003492196356,
+    "id_str": "754059003492196356",
+    "text": "#Turkey: What we know\nMilitary attempting coup\nAirport shut down\nChief of army taken hostage\nhttps:\/\/t.co\/t1Hk2NrRB4 https:\/\/t.co\/5I6PaeFKmm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [{
+        "text": "Turkey",
+        "indices": [0, 7]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/t1Hk2NrRB4",
+        "expanded_url": "http:\/\/aje.io\/juxx",
+        "display_url": "aje.io\/juxx",
+        "indices": [93, 116]
+      }],
+      "media": [{
+        "id": 754058997905362944,
+        "id_str": "754058997905362944",
+        "indices": [117, 140],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/Cnb0qdXWEAAFi9s.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cnb0qdXWEAAFi9s.jpg",
+        "url": "https:\/\/t.co\/5I6PaeFKmm",
+        "display_url": "pic.twitter.com\/5I6PaeFKmm",
+        "expanded_url": "http:\/\/twitter.com\/AJENews\/status\/754059003492196356\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 381,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1000,
+            "h": 561,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1000,
+            "h": 561,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003eSocialFlow\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18424289,
+      "id_str": "18424289",
+      "name": "Al Jazeera News",
+      "screen_name": "AJENews",
+      "location": "Doha, Qatar",
+      "description": "Follow Al Jazeera for the latest news, on-going coverage and unique perspectives from around the world. For more: @AJEnglish",
+      "url": "https:\/\/t.co\/D38RZjLnhI",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https:\/\/t.co\/D38RZjLnhI",
+            "expanded_url": "http:\/\/aljazeera.com",
+            "display_url": "aljazeera.com",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1040480,
+      "friends_count": 366,
+      "listed_count": 16412,
+      "created_at": "Sun Dec 28 08:02:32 +0000 2008",
+      "favourites_count": 44,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 78268,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/433511991982821376\/ZwClzpaF.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/433511991982821376\/ZwClzpaF.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/448478250503647233\/xZOjTaoA_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/448478250503647233\/xZOjTaoA_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/18424289\/1468628646",
+      "profile_link_color": "CB922A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E4E2E2",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1610,
+    "favorite_count": 286,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "created_at": "Fri Jul 15 20:31:14 +0000 2016",
+    "id": 754050712531767296,
+    "id_str": "754050712531767296",
+    "text": "UPDATE; \nTurkey's military issue statement claiming coup has been successful &amp; it has taken over the country.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 216299334,
+      "id_str": "216299334",
+      "name": "Piers Morgan",
+      "screen_name": "piersmorgan",
+      "location": "London, Newick, LA. ",
+      "description": "'One day you're the cock of the walk, the next a feather duster.'",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5056034,
+      "friends_count": 1284,
+      "listed_count": 17905,
+      "created_at": "Tue Nov 16 09:37:44 +0000 2010",
+      "favourites_count": 21,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 86615,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "EBC1CB",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/488416101148004352\/9Rcg3pxs.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/488416101148004352\/9Rcg3pxs.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/634740899180904448\/V4wCni0T_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/634740899180904448\/V4wCni0T_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/216299334\/1440168979",
+      "profile_link_color": "B30024",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1758,
+    "favorite_count": 564,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "created_at": "Fri Jul 15 22:21:20 +0000 2016",
+    "id": 754078422322642944,
+    "id_str": "754078422322642944",
+    "text": "Gunfire heard on bridge over Bosphorus, Istanbul as military coup unfolds in Turkey https:\/\/t.co\/kmgak0Sgku  https:\/\/t.co\/YveH01ZF9w",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/kmgak0Sgku",
+        "expanded_url": "http:\/\/bbc.in\/29Ks0ns",
+        "display_url": "bbc.in\/29Ks0ns",
+        "indices": [84, 107]
+      }, {
+        "url": "https:\/\/t.co\/YveH01ZF9w",
+        "expanded_url": "http:\/\/snpy.tv\/29BlEIs",
+        "display_url": "snpy.tv\/29BlEIs",
+        "indices": [109, 132]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/snappytv.com\" rel=\"nofollow\"\u003eSnappyTV.com\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 5402612,
+      "id_str": "5402612",
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "location": "London, UK",
+      "description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+      "url": "http:\/\/t.co\/vBzl7LOaso",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/vBzl7LOaso",
+            "expanded_url": "http:\/\/www.bbc.co.uk\/news",
+            "display_url": "bbc.co.uk\/news",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 23900463,
+      "friends_count": 3,
+      "listed_count": 120590,
+      "created_at": "Sun Apr 22 14:42:37 +0000 2007",
+      "favourites_count": 0,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 29184,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/459283928017149952\/IMgcIyBE.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/459283928017149952\/IMgcIyBE.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/460740982498013184\/wIPwMwru_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/460740982498013184\/wIPwMwru_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/5402612\/1398336837",
+      "profile_link_color": "1F527B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5A5A5A",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3375,
+    "favorite_count": 1128,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "created_at": "Fri Jul 15 20:50:55 +0000 2016",
+    "id": 754055667661479937,
+    "id_str": "754055667661479937",
+    "text": "\"Widespread fear and paranoia\" in Turkey as military announces it has taken over power https:\/\/t.co\/dSi8b50yTA  https:\/\/t.co\/PcpyEmAOEm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/dSi8b50yTA",
+        "expanded_url": "http:\/\/bbc.in\/29J4biT",
+        "display_url": "bbc.in\/29J4biT",
+        "indices": [87, 110]
+      }, {
+        "url": "https:\/\/t.co\/PcpyEmAOEm",
+        "expanded_url": "http:\/\/snpy.tv\/29WnIc9",
+        "display_url": "snpy.tv\/29WnIc9",
+        "indices": [112, 135]
+      }]
+    },
+    "metadata": {
+      "result_type": "popular",
+      "iso_language_code": "en"
+    },
+    "source": "\u003ca href=\"http:\/\/snappytv.com\" rel=\"nofollow\"\u003eSnappyTV.com\u003c\/a\u003e",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 5402612,
+      "id_str": "5402612",
+      "name": "BBC Breaking News",
+      "screen_name": "BBCBreaking",
+      "location": "London, UK",
+      "description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sp* Connection #0 to host api.twitter.com left intact
+      ort news @BBCSport.",
+      "url": "http:\/\/t.co\/vBzl7LOaso",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/vBzl7LOaso",
+            "expanded_url": "http:\/\/www.bbc.co.uk\/news",
+            "display_url": "bbc.co.uk\/news",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 23900463,
+      "friends_count": 3,
+      "listed_count": 120590,
+      "created_at": "Sun Apr 22 14:42:37 +0000 2007",
+      "favourites_count": 0,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 29184,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/459283928017149952\/IMgcIyBE.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/459283928017149952\/IMgcIyBE.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/460740982498013184\/wIPwMwru_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/460740982498013184\/wIPwMwru_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/5402612\/1398336837",
+      "profile_link_color": "1F527B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5A5A5A",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4420,
+    "favorite_count": 1255,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }],
+  "search_metadata": {
+    "completed_in": 0.017,
+    "max_id": 0,
+    "max_id_str": "0",
+    "next_results": "?max_id=754045560240431103&q=turkey%20coup%20min_faves%3A100%20min_retweets%3A100&count=5&include_entities=1&result_type=popular",
+    "query": "turkey+coup+min_faves%3A100+min_retweets%3A100",
+    "count": 5,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
